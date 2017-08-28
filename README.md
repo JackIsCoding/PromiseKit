@@ -1,6 +1,6 @@
 ![PromiseKit](http://promisekit.org/public/img/logo-tight.png)
 
-![badge-pod] ![badge-languages] ![badge-pms] ![badge-platforms] ![badge-mit]
+![badge-pod] ![badge-languages] ![badge-pms] ![badge-platforms] ![badge-mit] [![Build Status](https://travis-ci.org/mxcl/PromiseKit.svg?branch=master)](https://travis-ci.org/mxcl/PromiseKit)
 
 [繁體中文](README.zh_Hant.md), [简体中文](README.zh_CN.md)
 
